@@ -5,7 +5,7 @@ import re
 import pandas as pd
 
 st.set_page_config(
-    page_title="Prompt Bot",
+    page_title="Yearly Reports",
     page_icon=":hourglass_flowing_sand:",
     layout="centered"
 )
